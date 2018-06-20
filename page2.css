@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(203, 240, 248);
+}
+p{
+    text-decoration: none;
+    color: black;
+    font-size: 1em;
+}
+em{
+    font-size: 7em;
+    color: rgb(223, 178, 223);
+}
+#busca{
+    border: 0.1em solid black;
+    border-radius: 0.1em;
+    padding: 0.1em;
+    width: 10%;
+    font-size: 0.8em;
+}
+h1{
+    color: gray;
+    margin-left: 0.2em;
+    font-size: 4em;
+    margin-top: 0%;
+}
+h3{
+    color: rgb(80, 77, 77);
+    font-family: 'Times New Roman', Times, serif;
+    width: 10%;
+    font-size: 2em;
+}
+#navega ul{
+    margin-top: 3em;
+}
+#main{
+    border: 0.2em solid black;
+    margin-right: 10%;
+    width: 700px;
+    float: right;
+    background-color: #EEE;
+}
+#main ul{
+    list-style-type: none; 
+}

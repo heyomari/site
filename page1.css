@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(203, 240, 248);
+}
+p{
+    text-decoration: none;
+    color: blue;
+    font-size: 0.7em;
+}
+h1{
+    color: gray;
+    margin-left: 48%;
+    font-size: 3.5em;
+    margin-top: 0%;
+}
+#site{
+    background-color: #EEE;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 15%;
+    width: 1000px;
+    border: 0.2em solid black;
+}
+#login{
+    border: 0.08em solid grey;
+    border-radius: 0.2em;
+    text-align: center;
+    margin-top: 3em;
+    margin-left: 3em;
+    margin-right: 3em;
+    color: rgb(180, 180, 180);
+    font-family: Arial, Helvetica, sans-serif;
+}
+#senha{
+    border: 0.08em solid grey;
+    border-radius: 0.2em;
+    text-align: center;
+    margin-top: 0.2em;
+    margin-left: 3em;
+    margin-right: 3em;
+    color: rgb(180, 180, 180);
+    font-family: Arial, Helvetica, sans-serif;
+}
+#opt ul{
+    text-align: center;
+    padding: 0.02em;
+}
